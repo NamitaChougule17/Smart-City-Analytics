@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Spark / Logs
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+jobs/config.py
